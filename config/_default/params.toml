@@ -35,8 +35,8 @@ talksGroupByDate = "2006" # "2006-01": group by month, "2006": group by year
 # whoami: usage - home page sidebar, single page bottom of post. all values can be empty
 myname = "okutan"
 email = ""
-whoami = "Web Developer"
-bioImageUrl = "https://pbs.twimg.com/profile_images/1100971769794506752/TyXRQrG7_400x400.jpg" # image url like "http//..." or "images/anyfoldername/mybioimage.jpg" If not set, we find a avatar image in root/static/images/whoami/avatar.(png|jpg|svg)
+whoami = "Web Developer / iOS Developer"
+bioImageUrl = "" # image url like "http//..." or "images/anyfoldername/mybioimage.jpg" If not set, we find a avatar image in root/static/images/whoami/avatar.(png|jpg|svg)
 useGravatar = false # we use this option highest priority
 location = "Tokyo, Japan"
 organization = "All About, Inc."
